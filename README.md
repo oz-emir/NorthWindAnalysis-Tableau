@@ -2,7 +2,7 @@
 
 Emir Ozkarabulut Northwind Data Analyses
 
-[I'm an inline-style link](https://www.google.com)
+[Direct Link to my project on Tableau Server](https://public.tableau.com/profile/emir.ozkarabulut#!/vizhome/NorthWindDataAnalysisEO/CategryProduct)
 
 1st Dashboard:
 
