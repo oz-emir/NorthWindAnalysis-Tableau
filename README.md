@@ -2,6 +2,8 @@
 
 Emir Ozkarabulut Northwind Data Analyses
 
+[I'm an inline-style link](https://www.google.com)
+
 1st Dashboard:
 
 •	I create two KPI Net Sales and Net Sales after Freight to demonstrate total Sales amount. 
